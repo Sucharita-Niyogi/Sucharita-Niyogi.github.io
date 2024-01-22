@@ -1,5 +1,5 @@
 # WELCOME! ---- Sucharita Niyogi
-![me2](https://github.com/Sucharita-Niyogi/sucharita_physics.github.io/assets/109155031/5d843a66-d58b-488c-b8a7-5ab70b9c6a3e)
+![me2 (1)](https://github.com/Sucharita-Niyogi/Sucharita-Niyogi.github.io/assets/109155031/67037219-a689-4126-b6b6-2ecbbb19e945)
 
 Hi, I am a Ph.D. student at the Vellore Institute of Technology, Vellore, Tamil Nadu, India. I am currently working under Dr. Bhaskar Sen Gupta, Associate Professor from VIT Vellore. My current research focuses on exploring the mechanical characteristics of amorphous glassy systems, specifically emphasizing porous glasses. I employ theoretical and numerical methods, specifically Molecular Dynamics (MD) simulations, under the athermal quasi-static (AQS) protocol to understand the characteristics of these porous glassy systems. Numerical simulations are conducted using the LAMMPS simulator package, and the analysis of pore topography is performed with Zeo++ software. Additionally, mechanical property analyses are carried out using C and FORTRAN programming.
 # Area of Specialization
