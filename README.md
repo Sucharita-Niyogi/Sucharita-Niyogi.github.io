@@ -1,11 +1,12 @@
 # WELCOME! ---- Sucharita Niyogi
 ![me2 (1)](https://github.com/Sucharita-Niyogi/Sucharita-Niyogi.github.io/assets/109155031/67037219-a689-4126-b6b6-2ecbbb19e945)
 
-I am a postdoctoral fellow at the Graduate School of Science at Nagoya University, Nagoya, Japan. I work under Prof. Takeshi Kawasaki from the Non-equilibrium physics group. My current work mainly focuses on the jamming mechanism of granular systems and their mechanism under frictional force. I did my Ph.D. under Dr. Bhaskar Sen Gupta, Associate Professor from Vellore Institute of Technology, India.  My Ph.D. work was mainly focused on exploring the mechanical characteristics of amorphous glassy systems, specifically emphasizing porous glasses. I employ theoretical and numerical methods, specifically Molecular Dynamics (MD) simulations, under the athermal quasi-static (AQS) protocol to understand the characteristics of these porous glassy systems. Numerical simulations were conducted using the LAMMPS simulator package, and the analysis of pore topography was performed with Zeo++ software. Additionally, mechanical property analyses were carried out using C and FORTRAN programming.
+I am a postdoctoral fellow at Osaka University Toyonaka Campus, Nagoya, Japan. I work under Prof. Takeshi Kawasaki at the D3 Center. My current work mainly focuses on the non linear rheology of ion jamming using theory and simulation. During my previous postdoc at Nagoya University, I worked on the jamming mechanism of granular systems and their mechanism under frictional force. I did my Ph.D. under Dr. Bhaskar Sen Gupta, Associate Professor from Vellore Institute of Technology, India.  My Ph.D. work was mainly focused on exploring the mechanical characteristics of amorphous glassy systems, specifically emphasizing porous glasses. I employ theoretical and numerical methods, specifically Molecular Dynamics (MD) simulations, under the athermal quasi-static (AQS) protocol to understand the characteristics of these porous glassy systems. Numerical simulations were conducted using the LAMMPS simulator package, and the analysis of pore topography was performed with Zeo++ software. Additionally, mechanical property analyses were carried out using C and FORTRAN programming.
 # Area of Specialization
-Soft Condensed Matter Physics • Amorphous glass • Porous glass • Glass transition • Shear deformation • Jamming • Granular systems • AQS protocol • MD Simulation • Condensed Matter Physics • Statistical Physics
+Soft Condensed Matter Physics • Jamming rheology • Ion jamming • Granular systems • Amorphous glass • Porous glass • Glass transition • Shear deformation • AQS protocol • MD Simulation • Condensed Matter Physics • Statistical Physics
 # Education
-* 2024-Present: Postdoctoral Fellow at Nagoya University, Nagoya (Japan)
+* 2025-Present: Postdoctoral Fellow at Osaka University (Toyonaka Campus), Osaka (Japan)
+* 2024-2025: Postdoctoral Fellow at Nagoya University, Nagoya (Japan)
 * 2020-2024: Research Scholar (Ph.D.) at Vellore Institute of Technology (VIT), Vellore, Tamilnadu (India)
 * 2017-2019: M.Sc. with First Class (First) in Physics (Aggregate GPA: 9.69/10) at VIT Vellore, Tamilnadu (India)
 * 2014-2017: B.Sc (Honors) in Physics with First Class (Percentage – 65.125%) at the University of Calcutta, Howrah, West Bengal (India)
@@ -19,6 +20,6 @@ Soft Condensed Matter Physics • Amorphous glass • Porous glass • Glass tra
 * Synthesis and characterization of barium niobate and silver niobate solid solution, AIP Conference Proceedings 2220, 020146. I. S. Kapte, S. Niyogi, P. J. Qureshi, C. Pavithra, W. Madhuri, & D. Zarena, doi: (https://doi.org/10.1063/5.0001743) (2020).
 # Contact details
 * Email: sucharita.vit@gmail.com or niyogi.sucharita.k6@f.mail.nagoya-u.ac.jp
-* Mob: (+91) 8017224607 or (+81) 08073411936
-* Address: Non-equlibrium Physics Group, R-Laboratory, Room-503, Graduate School Of Science, Nagoya University, Japan
+* Mob: (+91) 8017224607 or (+81) 080-4964-1229
+* Address: D3 Center, Osaka University, Toyonaka Campus, Osaka, Japan
 
