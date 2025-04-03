@@ -19,7 +19,7 @@ Soft Condensed Matter Physics • Jamming rheology • Ion jamming • Granular 
 * Electric and Dielectric Studies on Modified Lithium Germanate, IJPAP 59(10) 711-714. J. C. Johnson, P. A. Qureshi, I. S. Kapte, S. Niyogi & W. Madhuri, doi: (http://op.niscpr.res.in/index.php/IJPAP/article/view/25156) (2021).
 * Synthesis and characterization of barium niobate and silver niobate solid solution, AIP Conference Proceedings 2220, 020146. I. S. Kapte, S. Niyogi, P. J. Qureshi, C. Pavithra, W. Madhuri, & D. Zarena, doi: (https://doi.org/10.1063/5.0001743) (2020).
 # Contact details
-* Email: sucharita.vit@gmail.com or niyogi.sucharita.k6@f.mail.nagoya-u.ac.jp
+* Email: sucharita.vit@gmail.com or niyogi.sucharita.d3c@osaka-u.ac.jp or niyogi.sucharita.k6@f.mail.nagoya-u.ac.jp
 * Mob: (+91) 8017224607 or (+81) 080-4964-1229
 * Address: D3 Center, Osaka University, Toyonaka Campus, Osaka, Japan
 
